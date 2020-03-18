@@ -1,4 +1,4 @@
-baseurl = "https://wizardly-carson-3dbb8e.netlify.com/"
+baseurl = "wizardly-carson-3dbb8e.netlify.com"
 title = "johndoe"
 
 theme = "hugo-coder"
